@@ -1,0 +1,32 @@
+{
+  "name": "meetyou-file-loader",
+  "version": "1.0.0",
+  "description": "meetyou file-loader,base on webpack file-loader,It's used to change image url without remove it's paramter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linweiwei123/meetyou-file-loader.git"
+  },
+  "keywords": [
+    "meetyou",
+    "file-loader",
+    "with",
+    "paramter"
+  ],
+  "author": "linweiwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linweiwei123/meetyou-file-loader/issues"
+  },
+  "homepage": "https://github.com/linweiwei123/meetyou-file-loader#readme",
+  "dependencies": {
+    "loader-utils": "~0.2.5"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.3",
+    "should": "~4.0.4"
+  }
+}

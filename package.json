@@ -1,6 +1,6 @@
 {
   "name": "meetyou-file-loader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "meetyou file-loader,base on webpack file-loader,It's used to change image url without remove it's paramter",
   "main": "index.js",
   "scripts": {
